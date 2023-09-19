@@ -1,9 +1,9 @@
 import requests
 
 # Замените на ваши реальные данные
-auth_token = "jum51ULtevz1TA7QCp8xTZukzg9CZZNlUEEJ-Ncbv2q"
-user_id = "WDC9Fi4bxZRMGqpWb"
-rocket_chat_url = " https://techflow.cloud/"
+auth_token = "AUTH_TOKEN"
+user_id = "USER_ID"
+rocket_chat_url = "https://rocket.chat"
 
 # Получите список всех чатов (комнат)
 def get_all_chats():
